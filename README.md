@@ -8,8 +8,6 @@ Welcome to Omnifood, your one-stop destination for delicious, nutritious, and co
 - [Introduction](#introduction)
 - [Features](#features)
 - [Live Demo](#live-lemo)
-- [Getting Started](#getting-started)
-- [Support](#support)
 
 ## Introduction
 
@@ -25,13 +23,3 @@ Omnifood is a website that showcases a variety of meals available for order, tai
 ## Live Demo
 
 [Live Demo](https://superb-medovik-c6d316.netlify.app/).
-
-## Getting Started
-
-If you'd like to contribute to the project or explore the code behind Omnifood, please reach out to the project maintainers for access. Note that this repository does not come with any specific license or contribution guidelines.
-
-## Support
-
-If you have any questions, encounter issues, or just want to reach out to us, feel free to contact our support team at [support@omnifood.com](mailto:support@omnifood.com).
-
-Thank you for visiting Omnifood, and we hope you enjoy your dining experience with us!
