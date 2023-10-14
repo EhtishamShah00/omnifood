@@ -1,6 +1,6 @@
 # Omnifood
 
-![Omnifood Website](img/omnifood-logo)
+![Omnifood Website](img/omnifood-logo.png)
 
 Welcome to Omnifood, your one-stop destination for delicious, nutritious, and convenient meals delivered right to your doorstep. With a focus on quality ingredients and world-class culinary expertise, we're here to make your daily dining a breeze.
 
